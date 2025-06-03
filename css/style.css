@@ -483,6 +483,7 @@ section {
 /* =========== Start Footer ============== */
 footer {
     padding: 1rem 0;
+    font-size: 0.8rem;
     text-align: center;
 }
 
