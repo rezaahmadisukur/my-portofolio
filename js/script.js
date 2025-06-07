@@ -38,7 +38,7 @@ $("#pro").on("click", function () {
                 </div>
                 <div class="card">
                     <div class="card__head">
-                        <img src="./img/bg.jpg" alt="">
+                        <img src="./img/not-found.jpg" alt="">
                     </div>
                     <div class="card__body">
                         <h3>Title Card Project Based</h3>
@@ -50,7 +50,7 @@ $("#pro").on("click", function () {
                 </div>
                 <div class="card">
                     <div class="card__head">
-                        <img src="./img/bg.jpg" alt="">
+                        <img src="./img/not-found.jpg" alt="">
                     </div>
                     <div class="card__body">
                         <h3>Title Card Project Based</h3>
